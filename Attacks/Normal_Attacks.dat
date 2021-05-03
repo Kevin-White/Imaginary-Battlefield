@@ -8,7 +8,7 @@ Punch |5pts| Causes 8 Damage
 0 0 8 0 0 0 5
 Health Potion |4pts| Heals Player 10 HP
 0 0 0 0 0 -10 4
-Flee |3pts| Opponent Losses 3 Stamina
+Flee |3pts| Opponent Loses 3 Stamina
 0 3 0 0 0 0 3
 Struggle |1pt| Cause 3 Damage & Causes 1 Damage To Yourself
 0 0 3 0 0 1 1
@@ -20,11 +20,11 @@ Wisdom |1pt| Gain 5 Mana For This Turn
 0 0 0 -5 0 0 1
 Throw Weapon |ALLpts| Throw Your Weapon, Cause 10 Damage And End Turn
 0 0 10 10 10 0 -1
-Posion Bomb |8pts| Throw a Bomb That Causes 15 Damage
+Poison Bomb |8pts| Throw a Bomb That Causes 15 Damage
 0 0 15 0 0 0 8
 Joker |1Pts| Throw Card At Opponent, Causes 2 Damage
 0 0 2 0 0 0 1
-Iocaine powder |3pts| A Colorless, Odorless, And Deadly Poison From Australia, Cause 5 Damage
+Iocane powder |3pts| A Colorless, Odorless, And Deadly Poison From Australia, Cause 5 Damage
 0 0 5 0 0 0 3
 My Mango |2pts| Throw a Mango, It Blows Up, Cause 4 Damage
 0 0 4 0 0 0 2
